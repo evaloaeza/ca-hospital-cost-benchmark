@@ -1,0 +1,16 @@
+name: hadr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - spyder=6.*
+  - spyder-kernels=3.1.*
+  - pandas
+  - pyarrow
+  - duckdb
+  - pdfplumber
+  - openpyxl
+  - numpy
+  - pip
+  - pip:
+      - polars
