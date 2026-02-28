@@ -9,6 +9,11 @@ data_parquet/
 *.parquet
 outputs/out_step1_single_sheet/
 
+# Draft / scratch scripts — keep off repo
+test.py
+test_*.py
+*_test.py
+
 # Python
 __pycache__/
 *.py[cod]
