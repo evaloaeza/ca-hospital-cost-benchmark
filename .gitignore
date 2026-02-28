@@ -13,6 +13,7 @@ outputs/out_step1_single_sheet/
 test.py
 test_*.py
 *_test.py
+scripts/step1_append_fin_util.py
 
 # Python
 __pycache__/
